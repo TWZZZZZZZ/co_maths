@@ -70,5 +70,5 @@ if __name__ == "__main__":
     # Test des mutateurs
     test.set_a(0)
     test.set_b(10)
-    test.set_n(11)
+    test.set_n(12)
     print(f"Nouvelles abscisses (0 à 10, 11 pts) : {test.get_abscisses()}")
